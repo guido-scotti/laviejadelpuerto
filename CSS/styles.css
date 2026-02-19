@@ -65,7 +65,7 @@ body, html {
 
 /* CUADRO CON TITULO PRINCIPAL */
     .hero-overlay {
-      background-color: rgba(0, 0, 0, 0.5);
+      background-color: rgba(189, 9, 9, 0.637);
       padding: 40px;
       text-align: center;
       border-radius: 10px;
@@ -80,7 +80,7 @@ body, html {
 
     .hero h3 {
     font-size: 1.5rem;
-    color: #ccc;
+    color: #fff;
     font-family: 'Libre Baskerville', serif;
     }
 
@@ -116,10 +116,10 @@ body, html {
     }
 
     .nosotros-section h3 {
-        margin: 40px auto 10px;
+        margin: 20px auto 10px;
         font-size: 24px;
         font-family: 'Libre Baskerville', serif;
-        color: #666666;
+        color: #cc0a0a;
     }
 
     .nosotros-section p {
@@ -130,6 +130,7 @@ body, html {
         font-weight: 600;
         font-family: 'Libre Baskerville', serif;
         color: #666666;
+        text-align: left;
     }
 
 /* SECCION DE MENU */
@@ -153,7 +154,7 @@ body, html {
       margin-bottom: 30px;
       font-family: 'Libre Baskerville', serif;
       font-weight: 700;
-      color: #666666;
+      color: #cc0a0a;
     }
 
     .menu-carillas {
@@ -187,6 +188,7 @@ body, html {
   text-align: center;
   padding: 60px 20px;
   background-color: #fffefc;
+  margin-bottom: 60px;
   scroll-margin-top: 110px;
 }
 
@@ -203,17 +205,17 @@ body, html {
       margin-bottom: 30px;
       font-family: 'Libre Baskerville', serif;
       font-weight: 700;
-      color: #666666;
+      color: #cc0a0a;
     }
 
     .reseñas{
       width: 700px;
-      background-color:#cc0a0a;
+      background-color:#300606;
       margin-left: auto;
       margin-right: auto;
       padding: 20px;
       border-radius: 8px;
-      border: 2px solid #dfb910;
+      border: 2px solid #680101;
       box-shadow: 0 4px 20px rgba(0,0,0,0.1);
       margin-top: 50px;
       transition: transform 0.2s ease-in-out;
