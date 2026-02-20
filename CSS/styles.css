@@ -2,7 +2,7 @@ body, html {
   margin: 0;
   padding: 0;
   font-family: 'Libre Baskerville', serif;
-  background-color: #fffefc;
+  background-color: #d1d1d1;
 }
 
 /* NAVBAR*/ 
@@ -10,7 +10,7 @@ body, html {
   position: fixed;
   top: 0;
   width: 100%;
-  background-color: #cc0a0a; 
+  background-color: #9b0808; 
   display: flex;
   align-items: center; 
   justify-content: space-between; 
@@ -38,7 +38,7 @@ body, html {
 
 .nav-links a {
   text-decoration: none;
-  color: #fff;
+  color: #fdb52f;
   font-weight: bold;
   padding: 5px 10px;
   transition: color 0.3s ease;
@@ -46,7 +46,7 @@ body, html {
 
 .nav-links a:hover {
   color: #000;
-  background-color: #fff;
+  background-color: #fdb52f;
   border-radius: 5px;
 }
 
@@ -75,7 +75,7 @@ body, html {
     .hero h1 {
     font-size: 3rem;
     margin-bottom: 10px;
-    color: #dfb910;
+    color: #fdb52f;
     }
 
     .hero h3 {
@@ -104,7 +104,7 @@ body, html {
 /* ABOUT US SECCION */
 .nosotros-section{
     text-align: center;
-    background-color: #fffefc;
+    background-color: #d1d1d1;
     scroll-margin-top: 175px;
 }
 
@@ -112,14 +112,14 @@ body, html {
     margin: 90px auto 20px;
     font-size: 50px;
     font-family: 'Playfair Display', serif;
-    color: #000000;
+    color: #cc0a0a;
     }
 
     .nosotros-section h3 {
         margin: 20px auto 10px;
         font-size: 24px;
         font-family: 'Libre Baskerville', serif;
-        color: #cc0a0a;
+        color: #5c1010;
     }
 
     .nosotros-section p {
@@ -129,7 +129,7 @@ body, html {
         font-size: 1.0625rem;
         font-weight: 600;
         font-family: 'Libre Baskerville', serif;
-        color: #666666;
+        color: #332e2e;
         text-align: left;
     }
 
@@ -137,7 +137,7 @@ body, html {
 .menu-section {
   text-align: center;
   padding: 60px 20px;
-  background-color: #fffefc;
+  background-color: #d1d1d1;
   scroll-margin-top: 110px;
 }
 
@@ -146,7 +146,7 @@ body, html {
       margin-bottom: 40px;
       font-family: 'Playfair Display', serif;
       font-weight: 700;
-      color: #000000;
+      color: #cc0a0a;
     }
 
     .menu-section h2 {
@@ -154,7 +154,7 @@ body, html {
       margin-bottom: 30px;
       font-family: 'Libre Baskerville', serif;
       font-weight: 700;
-      color: #cc0a0a;
+      color: #5c1010;
     }
 
     .menu-carillas {
@@ -187,7 +187,7 @@ body, html {
 .reseñas-section {
   text-align: center;
   padding: 60px 20px;
-  background-color: #fffefc;
+  background-color: #d1d1d1;
   margin-bottom: 60px;
   scroll-margin-top: 110px;
 }
@@ -197,7 +197,7 @@ body, html {
       margin-bottom: 40px;
       font-family: 'Playfair Display', serif;
       font-weight: 700;
-      color: #000000;
+      color: #cc0a0a;
     }
 
     .reseñas-section h2 {
@@ -205,12 +205,12 @@ body, html {
       margin-bottom: 30px;
       font-family: 'Libre Baskerville', serif;
       font-weight: 700;
-      color: #cc0a0a;
+      color: #5c1010;
     }
 
     .reseñas{
       width: 700px;
-      background-color:#300606;
+      background-color:rgba(177, 2, 2, 0.76);
       margin-left: auto;
       margin-right: auto;
       padding: 20px;
@@ -241,7 +241,7 @@ body, html {
 /* SECCION DE CONTACTO */
 .contacto{
     text-align: center;
-    background-color: #cc0a0a;
+    background-color: #9b0808;
     padding-top: 20px;
     padding-bottom: 20px;
 }
@@ -305,7 +305,7 @@ body, html {
   font-size: smaller;
   padding-bottom: 20px;
   padding-top: 20px;
-  background-color: #cc0a0a;
+  background-color: #9b0808;
 }
 
 /* CARRUSEL DE FOTOS */
