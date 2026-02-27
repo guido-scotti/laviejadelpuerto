@@ -52,7 +52,7 @@ body, html {
 
 /* IMAGEN PRINCIPAL */
 .hero {
-  background-image: url("../Images/Resto/fotohero.jpg");
+  background-image: url("../Images/Resto/fotoFrente.jpeg");
   background-size: cover;
   background-position: center;
   height: 100vh; 
